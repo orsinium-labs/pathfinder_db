@@ -1,0 +1,10 @@
+abbr,name,lawful,chaotic,good,evil
+LG,Lawful Good,1,0,1,0
+LN,Lawful Neutral,1,0,0,0
+LE,Lawful Evil,1,0,0,1
+NG,Neutral Good,0,0,1,0
+N,1 Neutral,0,0,0,0
+NE,Neutral Evil,0,0,0,1
+CG,Chaotic Good,0,1,1,0
+CN,Chaotic Neutral,0,1,0,0
+CE,Chaotic Evil,0,1,0,1

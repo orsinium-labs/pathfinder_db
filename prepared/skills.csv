@@ -1,0 +1,27 @@
+name,stat,armor,untrained,multi
+Acrobatics,dex,1,1,0
+Appraise,int,0,1,0
+Bluff,cha,0,1,0
+Climb,str,1,1,0
+Craft,int,0,1,1
+Diplomacy,cha,0,1,0
+Disable Device,dex,1,0,0
+Disguise,cha,0,1,0
+Escape Artist,dex,1,1,0
+Fly,dex,1,1,0
+Handle Animal,cha,0,0,0
+Heal,wis,0,1,0
+Intimidate,cha,0,1,0
+Knowledge,int,0,0,1
+Linguistics,int,0,0,0
+Perception,wis,0,1,0
+Perform,cha,0,1,1
+Profession,wis,0,0,1
+Ride,dex,1,1,0
+Sense Motive,wis,1,1,0
+Sleight of Hand,dex,1,0,0
+Spellcraft,int,1,0,0
+Stealth,dex,1,1,0
+Survival,wis,0,1,0
+Swim,str,1,1,0
+Use Magic Device,cha,0,0,0

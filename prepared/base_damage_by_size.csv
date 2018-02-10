@@ -1,0 +1,14 @@
+size,bite,claw,gore,hoof,tentacle,wing,pincers,tail,slap,slam,sting,talons,other
+Fine,1,0,1,0,0,0,1,1,1,0,0,0,0
+Diminutive,1d2,1,1d2,1,1,1,1d2,1d2,1d2,1,1,1,1
+Tiny,1d3,1d2,1d3,1d2,1d2,1d2,1d3,1d3,1d3,1d2,1d2,1d2,1d2
+Small,1d4,1d3,1d4,1d3,1d3,1d3,1d4,1d4,1d4,1d3,1d3,1d3,1d3
+Medium,1d6,1d4,1d6,1d4,1d4,1d4,1d6,1d6,1d6,1d4,1d4,1d4,1d4
+Large (tall),1d8,1d6,1d8,1d6,1d6,1d6,1d8,1d8,1d8,1d6,1d6,1d6,1d6
+Large (long),1d8,1d6,1d8,1d6,1d6,1d6,1d8,1d8,1d8,1d6,1d6,1d6,1d6
+Huge (tall),2d6,1d8,2d6,1d8,1d8,1d8,2d6,2d6,2d6,1d8,1d8,1d8,1d8
+Huge (long),2d6,1d8,2d6,1d8,1d8,1d8,2d6,2d6,2d6,1d8,1d8,1d8,1d8
+Gargantuan (tall),2d8,2d6,2d8,2d6,2d6,2d6,2d8,2d8,2d8,2d6,2d6,2d6,2d6
+Gargantuan (long),2d8,2d6,2d8,2d6,2d6,2d6,2d8,2d8,2d8,2d6,2d6,2d6,2d6
+Colossal (tall),4d6,2d8,4d6,2d8,2d8,2d8,4d6,4d6,4d6,2d8,2d8,2d8,2d8
+Colossal (long),4d6,2d8,4d6,2d8,2d8,2d8,4d6,4d6,4d6,2d8,2d8,2d8,2d8
