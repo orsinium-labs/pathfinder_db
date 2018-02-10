@@ -1,0 +1,226 @@
+Class,Type,BAB,Fort Save,Ref Save,Will Save,Alignment,Hit Dice,Skill pt.,Starting Wealth,Simple weapons,Martial weapons,Other weapons,Shield,Light armor,Medium Armor,Heavy Armor,Caster Type,Magic Type,Spell modifier,Casting,Special,Support,Examples,Description,Why play one?,Famous,Important
+Barbarian,Core,Full,Good,Bad,Bad,Any non+AC0-lawful,d12,4,average 105gp,All,All,+AC0-,+ACI-Yes, not tower+ACI-,Yes,Yes,No,+AC0-,+AC0-,+AC0-,+AC0-,Rage,No,+ACI-Tribal Warrior/Indian,
+Untrained gladiator+ACI-,+ACI-A lightly armored melee combatant, who fights with mighty strength and instincts, 
+rather than finesse and discipline. Wild warriors, Rejects civilization+ACI-,+ACI-You want to be a tough combatant, who can go toe+AC0-to+AC0-toe with almost anyone.
+Easy to play, powerful straight from the first level. +ACI-,+ACI-Conan the barbarian
+William Wallace+ACI-,+ACI-Feat:
+Raging Vitality+ACI-
+Bard,Core,3/4,Bad,Good,Good,Any,d8,6,average 105 gp,All,+ACI-Longsword, Rapier, Sap, 
+Shortsword, Shortbow+ACI-,Whip,+ACI-Yes, not tower+ACI-,Yes,No,No,Spontaneous,Arcane,Charisma,3/4,Bardic performance,Yes,+ACI-Jacks+AC0-of+AC0-all+AC0-trades, 
+Scholar, performer+ACI-,+ACI-Through cleverness, talent, and magic, these cunning few unravel the wiles of the 
+world, becoming adept in the arts of persuasion, manipulation, and inspiration.+ACI-,+ACI-Great flavor and RP range through masterpieces and archetypes (from Archaeologist to Buccaneer to Chelish Diva). 
+Universal Support Class makes everyone better (and is always welcome).+ACI-,+ACI-Starlord
+Sinbad+ACI-,+ACI-Feat: Lingering 
+Performance+ACI-
+Cleric,Core,3/4,Good,Bad,Good,+ACI-Within one step 
+of her deity+ACI-,d8,2,average 140 gp,All,+AC0-,Favored weapon of their deity,+ACI-Yes, not tower+ACI-,Yes,Yes,No,Prepared,Divine,Wisdom,Full,Domains,Yes,+ACI-Priest, Healer
+Tree cleric+ACI-,+ACI-Devoted to the tenets of the religions and philosophies that inspire them, these 
+ecclesiastics quest to spread the knowledge and influence of their faith.+ACI-,+ACI-You want to your god on your side. He loves you more than those paladins with full casting. You want to be a good 
+guy that heals everyone or a sadist that hurt others with divine power. You like to preach. +ACI-,+ACI-Arwen 
+High Sparrow+ACI-,+ACI-Feat: 
+Scribe scoll+ACI-
+Druid,Core,3/4,Good,Bad,Good,Any neutral,d8,4,average 70 gp,+ACI-Club, dagger, dart, quarterstaff, 
+sickle, shortspear, sling, spear+ACI-,+ACI-Scimitar, scythe+ACI-,Natural attacks,No,+ACI-Yes, 
+not metal +ACI-,+ACI-Yes, 
+not metal +ACI-,No,Prepared,Divine,Wisdom,Full,+ACI-Shapeshift
+Animal companion+ACI-,Yes,+ACI-Master of Elements
+Shapeshifter+ACI-,+ACI-Primal powers beyond the marvels of civilization are guarded over by servants 
+of philosophical balance known as druids+ACI-,+ACI-Utility galore, predict the weather, cure wounds, remove poison and more, 
+also shapeshift for melee combat, great jack of all trades class.+ACI-,+ACI-Radagast the Brown
+Poison Ivy+ACI-,+ACI-Feat: 
+Natural Spell+ACI-
+Fighter,Core,Full,Good,Bad,Bad,Any,d10,2,average 175gp,All,All,+AC0-,Yes,Yes,Yes,Yes,+AC0-,+AC0-,+AC0-,+AC0-,Feats,No,+ACI-Soldier, Knight,
+Weapon Master+ACI-,+ACI-Fighters are a disparate lot, training with many weapons, perfecting the uses of 
+armor, learning the fighting techniques, and studying the art of combat. +ACI-,+ACI-Perfect if you want to specialize in a weapon or a fighting technique or if you want to be really flexible with lots of 
+styles. You got combat feats for it. The advanced training allows for special options just for this class. +ACI-,+ACI-Maximus 
+Boromir+ACI-,+ACI-Feats: 
+AWT/AAT+ACI-
+Monk,Core,3/4,Good,Good,Good,Any lawful,d8,4,average 35 gp,+ACI-Special, see d20pfsrd.com
+Brass knuckles, cestus, etc..+ACI-,Handaxe,+ACI-Unarmed, kama, nunchaku, sai, 
+shuriken, siangham, temple sword+ACI-,No,No,No,No,+AC0-,+AC0-,+AC0-,+AC0-,Flurry,No,+ACI-Mage slayer
+Martial expert+ACI-,+ACI-These warrior+AC0-artists search out methods of battle beyond swords and shields, 
+finding weapons within themselves just as capable of crippling or killing as any blade+ACI-,+ACI-You want to be ready at all times, even when you are naked in bed. With this class, your body is your armor and 
+your weapon. You are fast and you got good saves for everything. Your body will only be stronger and stronger. +ACI-,+ACI-Son Goku
+Friar Tuck+ACI-,+ACI-Unchained or 
+an Archetype+ACI-
+Paladin,Core,Full,Good+-,Bad+-,Good+-,Lawful good,d10,2,average 175 gp,All,All,+AC0-,+ACI-Yes, not tower+ACI-,Yes,Yes,Yes,Prepared,Divine,Charisma,Half,Smite,Yes,+ACI-Holy Knight, Leader
+Crusader, Law bringer+ACI-,+ACI-Through a select, worthy few shines the power of the divine. Called paladins, 
+these noble souls dedicate their swords and lives to the battle against evil+ACI-,+ACI-You want to be the aweseome warrior that is good enough for a god. You believe in redemption but if evil ignore
+your warnings, you will walk through hell to smite them. +ACI-,+ACI-Captain America
+He+AC0-Man+ACI-,+ACI-1st Feat: 
+Fey Foundling+ACo-+ACI-
+Ranger,Core,Full,Good,Good,Bad,Any,d10,6,average 175 gp,All,All,+AC0-,+ACI-Yes, not tower+ACI-,Yes,Yes,No,Prepared,Divine,Wisdom,Half,Favored enemy,Varies,+ACI-Scout, Tracker, 
+Bounty Hunter+ACI-,+ACI-Rangers has a unique mastery of specialized weapons, skill at stalking even 
+the most elusive game, and the expertise to defeat a wide range of quarries. +ACI-,+ACI-You want to be an expert in a certain environment, against a certain creature. This is for you. You will also get some
+spells and an animal companion for flair. +ACI-,+ACI-Aragorn
+Red Sonja+ACI-,
+Rogue,Core,3/4,Bad,Good,Bad,Any,d8,8,average 140 gp,All,+ACI-Rapier, sap, shortbow, 
+short sword+ACI-,Hand crossbow,No,Yes,No,No,+AC0-,+AC0-,+AC0-,+AC0-,Sneak Attack,No,+ACI-Thief, Gambler, Bandit, 
+Diplomat, Assassin+ACI-,+ACI-They prepare for everything, becoming masters of a wide variety of skills, training 
+themselves to be adept manipulators, agile acrobats, shadowy stalkers and more. +ACI-,+ACI-If you love skills then this is the class for you. Not only do you get 8 skill points each level, you also have a bunch
+of special options for your skills. For those who love to stab people in the dark in the back. PS: Use Unchained only+ACI-,+ACI-Han Solo, Bilbo,
+Garret from Thief+ACI-,+ACI-Unchained and
+feat Twist Away+ACI-
+Sorcerer,Core,Half,Bad,Bad,Good,Any,d6,2,average 70 gp,All,+AC0-,+AC0-,No,No,No,No,Spontaneous,Arcane,Charisma,Full,+ACI-Bloodline power, cantrips, 
+eschew materials, bloodline spell+ACI-,Varies,+ACI-Battle Mage
+Powerful spellcaster+ACI-,+ACI-Scions of innately magical bloodlines, the chosen of deities, the spawn of monsters, 
+pawns of fate and destiny, or simply flukes of fickle magic. +ACI-,+ACI-You want to play wizard but doesn't want to hassle with spells each day, then this is the one for you. Allows you to 
+use your blasts spells more each day. You also get cool bloodline powers for that extra flair. +ACI-,+ACI-Harry Potter
+Lina Inverse+ACI-,
+Wizard,Core,Half,Bad,Bad,Good,Any,d6,2,average 70 gp,+ACI-Cub, dagger, heavy crossbow, 
+light crossbow, quarterstaff+ACI-,+AC0-,+AC0-,No,No,No,No,Prepared,Arcane,Intelligence,Full,+ACI-Arcane bond, arcane school, 
+cantrips, Scribe Scroll, Bonus feat+ACI-,Varies,+ACI-Powerful spellcaster
+Scholar+ACI-,+ACI-These shrewd magic+AC0-users seek, collect, and covet esoteric knowledge, drawing on 
+cultic arts to work wonders beyond the abilities of mere mortals. +ACI-,+ACI-You want to be a wizard and you love to study and prepare. You can add spells to your spell book and you can 
+write scrolls. Everything can be solved with magic. If you like flair, then a cute familiar can be your friend. +ACI-,+ACI-Gandalf the Grey
+Merlin+ACI-,
+Alchemist,Base,3/4,Good,Good,Bad,Any,d8,4,average 105gp,All,+AC0-,Bombs,No,Yes,No,No,Prepared,Arcane,Intelligence,3/4,Mutagen,Varies,+ACI-Magic potion maker, 
+Scientist, bombmaker+ACI-,+ACI-The alchemist captures magic within liquids and extracts, infusing his chemicals to 
+grant him impressive skill with poisons, explosives and self+AC0-transformation. +ACI-,+ACI-You like bombs? Or do you want to turn into a monster that crushes everything? Alchemist is like wizard that use 
+potions and elixirs instead of spells and if you like that, then this class is for you. +ACI-,Dr Jekyll +ACY- Mr Hyde,
+Cavalier,Base,Full,Good,Bad,Bad,Any,d10,4,average 175 gp,All,All,+AC0-,+ACI-Yes, not tower+ACI-,Yes,Yes,Yes,+AC0-,+AC0-,+AC0-,+AC0-,+ACI-Mount, Challenge+ACI-,Yes,+ACI-Knight, Leader, Trainer,
+Tactician, Duelist+ACI-,+ACI-Cavaliers swear themselves to a purpose, serving it above all else. They are skilled 
+at fighting from horseback, and are often found wielding their banner in battle. +ACI-,+ACI-This class is for those who really want to ride into combat. You are also a leader that want to tell others what to do. 
+You also like to pick a specific target and challenge that sucker. You pick an order and banner for flair. +ACI-,Robb Stark,
+Gunslinger,Base,Full,Good,Good,Bad,Any,d10,4,average 175 gp,All,All,All Firearms,No,Yes,No,No,+AC0-,+AC0-,+AC0-,+AC0-,+ACI-Deeds, grit, gunsmith, Nimble,
+Gun training, Bonus feat+ACI-,No,+ACI-Cowboy
+Enginner+ACI-,+ACI-Firearms are strange and unusual weapons, and gunslingers are the best when it comes 
+to using them. Cagey and mobile marksmen, gunslingers are masters of the trick shot. +ACI-,+ACI-This class is for those who wants to shoot guns in a fantasy world. You deal great ranged damage and armor won't 
+help much against bullets. +ACI-,Lucky Luke,+ACI-Weapon:
+Revolver+ACI-
+Inquisitor,Base,3/4,Good,Bad,Good,+ACI-Within one step 
+of her deity+ACI-,d8,6,average 140 gp,All,+ACI-Longbow, shortbow+ACI-,+ACI-Favored weapon of their deity, 
+Hand Crossbow, repeating crossbow+ACI-,+ACI-Yes, not tower+ACI-,Yes,Yes,No,Prepared,Divine,Wisdom,3/4,+ACI-Judgement, Bane+ACI-,No,+ACI-Witch hunter
+Divine Assassin+ACI-,+ACI-Grim and determined, the inquisitor roots out enemies of the faith, using trickery 
+and guile when righteousness and purity is not enough.+ACI-,+ACI-Inquisitors is all about adapting to the enemy. You want to know their weakness and how to exploit it. 
+You are the number one monster hunter. +ACI-,+ACI-Van Helsing
+Geralt of Rivia+ACI-,
+Magus,Base,3/4,Good,Bad,Good,Any,d8,2,average 140gp,All,All,+AC0-,No,Yes,No,No,Prepared,Arcane,Intelligence,3/4,+ACI-Arcane pool, spell combat, 
+Spellstrike, Magus arcana+ACI-,Varies,+ACI-Magic sword fighter
+Martial wizard+ACI-,+ACI-The magus blends the magical ability and martial prowess into something entirely 
+unique, a discipline in which both spell and steel are used to devastating effect. +ACI-,You want to fight with weapons and you want to use magic. You want to add spells to your weapon strikes. ,Gambit,+ACI-Metamagic feat: 
+Intensified Spell+ACI-
+Oracle,Base,3/4,Bad,Bad,Good,Any,d8,4,average 105 gp,All,+AC0-,+ACI-Some oracle revelations 
+grant additional proficiencies.+ACI-,+ACI-Yes, not tower+ACI-,Yes,Yes,No,Spontaneous,Divine,Charisma,Full,+ACI-Mystery, Curse, Revelation+ACI-,Varies,+ACI-Chosen one
+Cursed one+ACI-,+ACI-These divine vessels are granted power without their choice, selected by providence 
+to wield powers that even they do not fully understand. +ACI-,+ACI-Not only do you want divine powers, you want to be chosen by the gods as well. 
+With great power comes a flaw. This class allows plenty of flair for the creative. +ACI-,+ACI-George +ACY- Kuato
+(Total Recall)+ACI-,
+Summoner,Base,3/4,Bad,Bad,Good,Any,d8,2,average 70 gp,All,+AC0-,+AC0-,No,Yes,No,No,Spontaneous,Arcane,Charisma,3/4,+ACI-Eidolon, summon monster+ACI-,Varies,+ACI-Conjurer
+Puppet Master+ACI-,+ACI-Arcane practitioner that forms a close bond with one particular outsider, known as an 
+eidolon, who gains power as the summoner becomes more proficient at his summoning.+ACI-,+ACI-You want the most powerful and awesome companion ever. This guy got the Eidolon which that keeps evolving 
+each level. You are also the best class for summoning creatures. +ACI-,Ash Ketchum,+ACI-OP: Use the 
+Unchained one+ACI-
+Vigilante,Base,3/4,Bad,Good,Good,Any,d8,6,average 175 gp,All,All,+AC0-,+ACI-Yes, not tower+ACI-,Yes,Yes,No,+AC0-,+AC0-,+AC0-,+AC0-,+ACI-Dual identity, seamless guise,
+social talent, vigilante specialization+ACI-,No,Masked hero/criminal,+ACI-The vigilante is a character of two natures+IBQ-the face that everyone knows and the 
+mask that inspires fear.+ACI-,+ACI-You want to be a superhero/supervillain
+You want to have an alter ego+ACI-,Batman,
+Witch,Base,Half,Bad,Bad,Good,Any,d6,2,average 105 gp,All,+AC0-,+AC0-,No,No,No,No,Prepared,Arcane,Intelligence,Full,+ACI-Hex, familiar+ACI-,Yes,+ACI-Hermit
+Healer+ACI-,+ACI-Generally feared and misunderstood, the witch draws her magic from a pact made with 
+an otherworldly power. Communing with that source, using her familiar as a conduit.+ACI-,+ACI-You want a wizard with a different kind of flair. The witch got all kind of crazy hexes that allows you to cackle, brew 
+potions in a cauldron and a bunch of other typical witch stuff. +ACI-,+ACI-Magica De Hex/Spell
+Wicked Witch of the West+ACI-,
+Antipaladin,Alternate,Full,Good+-,Bad+-,Good+-,Chaotic evil,d10,2,average 175 gp,All,All,+AC0-,+ACI-Yes, not tower+ACI-,Yes,Yes,Yes,Prepared,Divine,Charisma,Half,+ACI-Detect good, smite good, Touch 
+of corruption, unholy resilience+ACI-,No,+ACI-Fallen paladin
+Evil general+ACI-,+ACI-The dark and disturbed few, who turn actively to evil, courting the dark powers they 
+once railed against in order to take vengeance on their former brothers. +ACI-,+ACI-If you want to be super evil, then this good smiting class is for you. +ACI-,Darth Vader,
+Samurai,Alternate,Full,Good,Bad,Bad,Any,d10,4,average 105 gp,All,All,+ACI-Katana, naginata, and wakizashi+ACI-,+ACI-Yes, not tower+ACI-,Yes,Yes,Yes,+AC0-,+AC0-,+AC0-,+AC0-,+ACI-Challenge, mount, order, 
+resolve, Weapon expertise+ACI-,No,+ACI-Tian+AC0-Xia knight with
+discipline and honor+ACI-,+ACI-Few warriors are more dedicated to honor and the code of the warrior than the samurai. 
+Trained from an early age in the art of war and sworn to the service of a lord.+ACI-,+ACI-You want to play a samurai even though everyone complains that they don't belong to fantasy europe. Screw them.
+Lords die all the time and then you have a perfect background for traveling to the Inner Sea for adventures. +ACI-,Usagi Yojimbo,
+Ninja,Alternate,3/4,Bad,Good,Bad,Any,d8,8,average 140gp,All,+ACI-shortbow, shortsword+ACI-,+ACI-Kama, katana, kusarigama, nunchaku, 
+sai, shuriken, siangham, wakizashi+ACI-,No,Yes,No,No,+AC0-,+AC0-,+AC0-,+AC0-,+ACI-Poison use, sneak attack,
+Ki pool, ninja trick+ACI-,No,+ACI-Tian+AC0-Xia infiltrator
+Disguised assassin+ACI-,+ACI-These shadowy killers are masters of infiltration, sabotage, and assassination, using 
+a wide variety of weapons, practiced skills, and mystical powers to achieve their goals.+ACI-,+ACI-Ninjas are fucking awesome+ACE- and yes they can travel. Tians love to travel and you only need your black suit for the
+missions while looking ordinary during the days. +ACI-,Daredevil,+ACI-Ninja Trick: 
+Vanishing Trick+ACI-
+Arcanist,Hybrid,Half,Bad,Bad,Good,Any,d6,2,average 70 gp,All,+AC0-,+AC0-,No,No,No,No,Prepared,Arcane,Intelligence,Full,+ACI-Arcane reservoir, arcanist exploit+ACI-,Varies,+ACI-Wizard+AC0-Sorcerer
+Arcane tinker+ACI-,+ACI-Arcanist seek to meld the science of arcane scholars with the natural might of innate 
+casters. They seek to discover the mysterious laws of magic and how to bend them. +ACI-,+ACI-Not only do you want to be born with magic potential, you want to study it as well and become a magic prodigy. +ACI-,Harry Potter,
+Bloodrager,Hybrid,Full,Good,Bad,Bad,Any,d10,4,average 105gp,All,All,+AC0-,+ACI-Yes, not tower+ACI-,Yes,Yes,No,Spontaneous,Arcane,Charisma,Half,+ACI-Bloodline, Bloodrage, fast movement+ACI-,No,+ACI-Bloodlined Barbarian
+Ferocious combatant+ACI-,+ACI-Bloodragers' veins surge with arcane power. They enter an altered state in which their 
+bloodline becomes manifest, where their ancestry lash out with devastating power.+ACI-,You want to play a barbarian with cool bloodline powers. ,Hulk ,+ACI-Feat:
+Raging Vitality+ACI-
+Brawler,Hybrid,Full,Good,Good,Bad,Any,d10,4,average 105gp,All,+ACI-Handaxe, short sword+ACI-,+ACI-Weapons from the close fighter 
+weapon group, unarmed strike+ACI-,No,Yes,No,No,+AC0-,+AC0-,+AC0-,+AC0-,+ACI-Brawler's cunning, 
+martial training, martial flexibility+ACI-,No,+ACI-Unarmed combatant
+Wrestler+ACI-,+ACI-Deadly even with nothing in her hands, a brawler focus on perfecting many styles of 
+brutal unarmed combat. A mix of fighter and a monk. +ACI-,+ACI-You want to be a versatile fighter who can change his style on the fly, master different tactics and use the weapons 
+on the streets. This class combines a monk's martial art skill with a fighter's combat training.+ACI-,Jackie Chan,
+Hunter,Hybrid,3/4,Good,Good,Bad,Any neutral,d8,6,average 140gp,All,All,+AC0-,+ACI-Yes, not tower+ACI-,Yes,Yes,No,Spontaneous,Divine,Wisdom,3/4,+ACI-Animal companion, animal focus,
+nature training+ACI-,,+ACI-Animal trainer, Hunter
+Warrior of the wilds+ACI-,+ACI-Fights alongside their companion animals as a formidable team of two. Hunters 
+magically improve both themselves and their animal companions with spells and abilities. +ACI-,You want a class that fights well together with his animal companion. You also want spells to improve this. ,San (Princess Monoke),
+Investigator,Hybrid,3/4,Bad,Good,Good,Any,d8,6,average 105gp,All,+ACI-Rapier, sap, shortbow, 
+short sword, sword cane+ACI-,Hand crossbow,No,Yes,No,No,Prepared,Arcane,Intelligence,3/4,+ACI-Alchemy, inspiration, trapfinding+ACI-,Varies,+ACI-Detective
+Mystery solver+ACI-,+ACI-Observing the world around them, they gain knowledge about the situation they're in, 
+process that information using inspiration and deduction, and cut to the matter. +ACI-,+ACI-This class is all about being a smartass. You can boost your skills, attacks and saves with inspiration points. 
+You also good with using alchemy, poisons, extracts and you are also good at spotting traps. +ACI-,+ACI-Sherlock Holmes
+Samuel +ACIAIg-Sam+ACIAIg- Vimes+ACI-,
+Shaman,Hybrid,3/4,Bad,Bad,Good,Any,d8,4,average 105gp,All,+AC0-,+AC0-,No,Yes,Yes,No,Prepared,Divine,Wisdom,Full,+ACI-Orisons, spirit, spirit animal, 
+spirit magic, Hex, Wandering spirit+ACI-,Yes,+ACI-Divine spellcasters
+Spirit whisperer+ACI-,+ACI-Shamans have strong ties to natural spirits. They form powerful bonds with particular 
+spirits, and as their power grows they learn to call upon other spirits in times of need.+ACI-,+ACI-You want to play crazy spirit shaman. It's a weird class but the result is good. Like a druid that can wear metal 
+armor and talk to spirits. +ACI-,Tia Dalma,
+Skald,Hybrid,3/4,Good,Bad,Good,Any,d8,4,average 105gp,All,All,+AC0-,+ACI-Yes, not tower+ACI-,Yes,Yes,No,Spontaneous,Arcane,Charisma,3/4,+ACI-Bardic knowledge, 
+raging song, inspired rage+ACI-,Yes,+ACI-Norse warrior bard
+Healer, scholar+ACI-,+ACI-Skalds are poets, historians, and keepers of lore who use their gifts for oration and song 
+to inspire allies into a frenzied rage.+ACI-,+ACI-This is a cool class. You play a fighter that can do more than fighting. You also have good will saves and you can 
+boost your friends in battles. You have spells but can also cast them in medium armor. +ACI-,Thor,
+Slayer,Hybrid,Full,Good,Good,Bad,Any,d10,6,average 175gp,All,All,+AC0-,+ACI-Yes, not tower+ACI-,Yes,Yes,No,+AC0-,+AC0-,+AC0-,+AC0-,+ACI-Studied target, Slayer talent, 
+Sneak attack+ACI-,No,+ACI-Assassin, Light Fighter, 
+Tracker, Bounty Hunter+ACI-,+ACI-Cunning hunters and warriors, slayers learn how to quickly identify the weaknesses of 
+an enemy and take him down, taking advantage of any vulnerability.+ACI-,+ACI-You want to play a light fighter but you don't want to dig through all billions combat feats and make sure you have
+the right requirements. You also want to be good at several skills. +ACI-,+ACI-Boba Fett, 
+Buffy the Vampire Slayer+ACI-,
+Swashbuckler,Hybrid,Full,Bad,Good,Bad,Any,d10,4,average 175gp,All,All,+AC0-,Buckler,Yes,No,No,+AC0-,+AC0-,+AC0-,+AC0-,+ACI-Deeds, panache, 
+swashbuckler finesse+ACI-,No,+ACI-Muskateer
+Ship figher+ACI-,+ACI-Swashbucklers rely on speed, agility, and panache. They dart in and out of the fray, 
+wearing down opponents with lunges and feints, while parrying their attacks. +ACI-,+ACI-You want to fight with a light blade and dazzle your opponents, and do daring stunts. 
+Don't forget to cut your logo on your enemies shirts when after you have defeated them. +ACI-,+ACI-d'Artagnan
+Zorro+ACI-,
+Warpriest,Hybrid,3/4,Good,Bad,Good,Any,d8,2,average 175gp,All,All,Favored weapon of their deity,+ACI-Yes, not tower+ACI-,Yes,Yes,Yes,Prepared,Divine,Wisdom,3/4,+ACI-Sacred weapon, Fervor, Bonus feat+ACI-,Yes,+ACI-Holy warrior, Healer, 
+Divine spellcaster+ACI-,+ACI-These militant priests give up some of the cleric's magical prowess to become martial 
+champions of their faith, learning many combat tricks and empowering their weapons. +ACI-,+ACI-You want to play a paladin but you don't want to play lawful good. This class allows you to be a divine warrior for 
+any god. Their Sacred weapons ability allows you to do good damage, even with weaker weapons. +ACI-,Witch+AC0-King of Angmar,
++ACI-Unchained 
+Rogue+ACI-,Unchained,3/4,Bad,Good,Bad,Any,d8,8,average 140gp,All,+ACI-rapier, sap, short sword, 
+shortbow+ACI-,Hand crossbow,No,Yes,No,No,+AC0-,+AC0-,+AC0-,+AC0-,+ACI-Finesse training, sneak attack, 
+trapfinding, evasion, rogue talent+ACI-,No,See Rogue,Better than normal rogue,+ACI-If you want to be a rogue, then pick this one. It's better in every way. +ACI-,See Rogue,
++ACI-Unchained 
+Monk+ACI-,Unchained,Full,Good,Good,Bad,Any lawful,d10,4,average 35 gp,+ACI-Special, see d20pfsrd.com 
+Brass knuckles, cestus, etc.+ACI-,Handaxe,+ACI-Kama, nunchaku, shuriken, siangham,
+sai, weapon with monk quality, unarmed+ACI-,No,No,No,No,+AC0-,+AC0-,+AC0-,+AC0-,+ACI-flurry of blows, Bonus feat, 
+stunning fist, evasion, ki pool+ACI-,No,See Monk,+ACI-Better and easier, but has worse Will saves+ACI-,+ACI-If you manage to live with worse will saves, then this is probably better than a normal monk. +ACI-,See Monk,
++ACI-Unchained 
+Barbarian+ACI-,Unchained,Full,Good,Bad,Bad,Any non+AC0-lawful,d12,4,average 105gp,All,All,+AC0-,+ACI-Yes, not tower+ACI-,Yes,Yes,No,+AC0-,+AC0-,+AC0-,+AC0-,+ACI-Fast movement, rage, 
+Rage power, uncanny dodge+ACI-,No,See Barbarian,Easier than normal barbarian,+ACI-If you like temporary hit points while raging, then this is better. The normal barbarian can get unconscious by 
+damage while raging and then die when the con score lowers from stop being in rage. +ACI-,See Barbarian,+ACI-Feat:
+Raging Vitality+ACI-
++ACI-Unchained 
+Sumoner+ACI-,Unchained,3/4,Bad,Bad,Good,Any,d8,2,average 70gp,All,All,+AC0-,No,Yes,No,No,Spontaneous,Arcane,Charisma,3/4,+ACI-eidolon, life link, 
+summon monster+ACI-,Varies,See Summoner,Nerfed and more balanced since the original summoner had some overpowered builds. ,+ACI-If you want to play a summoner, you should play this one. Don't cheese.+ACI-,See Summoner,
+Kinectist,Occult,3/4,Good,Good,Bad,Any,d8,4,average 35gp,All,All,+AC0-,No,Yes,No,No,+AC0-,+AC0-,+AC0-,+AC0-,+ACI-Burn, elemental focus, gather 
+power, infusion, kinetic blast+ACI-,No,+ACI-Master of an element
+or telekinesis +ACI-,+ACI-Kineticists are to like sorcerers, but instead of spell slots they limit themselves with 
+burn. Each point of Burn deals nonelethal damage that only rest can remove.+ACI-,You want play a bender from the Last airbender universe?,+ACI-Aang
+Korra+ACI-,Feat Toughness
+Medium,Occult,3/4,Bad,Bad,Good,Any,d8,4,average 140gp,All,+AC0-,+AC0-,No,Yes,Yes,No,Spontaneous,Psychic,Charisma,Half,+ACI-Knacks, spirit, spirit bonus, 
+spirit power, spirit surge, taboo+ACI-,Yes,Spirit vessel,+ACI-Mediums channel spirits into themselves, using their own bodies as vessels for astral 
+entities spawned from myths and legends. Danger by allowing spirit to influence her mind. +ACI-,You want to use spirit powers by infusing them into your body,,
+Mesmerist,Occult,3/4,Bad,Good,Good,Any,d8,6,average 105gp,All,+ACI-Sap, sword cane+ACI-,+ACI-Hand crossbow, whip+ACI-,No,Yes,No,No,Spontaneous,Psychic,Charisma,3/4,+ACI-Consummate liar, hypnotic stare, 
+knacks, mesmerist trick, painful stare+ACI-,Yes,Hypnotist,+ACI-Experts at charm and deceit, mesmerists compel others to heed their words and bend to
+their will. Manipulate others with psychic powers, primarily enchantment and illusion. +ACI-,You want to hypnotise and manipulate others?,,
+Psychic,Occult,half,Bad,Bad,Good,Any,d6,2,average 70gp,All,+AC0-,+AC0-,No,No,No,No,Spontaneous,Psychic,Intelligence,Full,+ACI-Discipline power, discipline spell, 
+phrenic amplification, phrenic pool+ACI-,Varies,+ACI-Master of the Mind
+Mind wizard+ACI-,+ACI-By accessing the great mental energy from the mind, the psychic can shape the world 
+around her, the minds of others, and pathways across the planes. +ACI-,You want to play mind wizard?,+ACI-Jean Grey (X+AC0-Men)
+Emma Frost (R.D.)+ACI-,
+Spiritualist,Occult,3/4,Good,Bad,Good,Any,d8,4,average 70 gp,All,+ACI-Kukri, sap, scythe+ACI-,+AC0-,No,Yes,No,No,Spontaneous,Psychic,Wisdom,3/4,+ACI-Etheric tether,phantom, shared 
+consciousness, Bonded senses+ACI-,Varies,Half+AC0-phantom,+ACI-Becoming a spiritualist is not a calling+IBQ-it's a phenomenon. The master of a single 
+powerful phantom whom the spiritualist can manifest to do her bidding. Fused with spirit. +ACI-,You like phantoms?,,
+Occultist,Occult,3/4,Good,Bad,Good,Any,d8,4,average 140 gp,All,All,+AC0-,+ACI-Yes, not tower+ACI-,Yes,Yes,No,Spontaneous,Psychic,Intelligence,3/4,+ACI-Focus powers, implements, mental
+focus, magic item skill, object reading+ACI-,Varies,Paranormal Explorer,+ACI-The occultist focuses on the world around him, grounded in the powers that flow 
+throughout his environment. He studies the magic that infuses everything.+ACI-,You want to be martial spellcaster that also is good at understanding and using magic stuff?,,
