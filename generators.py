@@ -1,6 +1,15 @@
+# built-in
 from collections import namedtuple
 import csv
 import os
+# external
+import sql
+
+
+try:
+    from mysql_mock import cursor
+except ImportError:
+    cursor = None
 
 
 Table = namedtuple('Table', ['name', 'columns'])
@@ -95,14 +104,14 @@ class BaseGenerator:
                         length=length,
                         uniq=uniq,
                     ),
-                    values=values,
+                    values=list(values),
                 )
 
     def get_schema(self, dirname='csv/'):
         for file_name in os.listdir(dirname):
             yield Table(
                 name=file_name[:-4],
-                columns=self.parse(os.path.join(dirname, file_name)),
+                columns=list(self.parse(os.path.join(dirname, file_name))),
             )
 
 
@@ -135,9 +144,30 @@ class CreateGenerator(BaseGenerator):
         )
 
     def generate(self):
-        with open('create.sql', 'w') as f:
+        with open('sql/create.sql', 'w') as f:
             for table in self.get_schema():
                 f.write(self.get_query(table))
 
+
+class InsertGenerator(BaseGenerator):
+    def generate(self):
+        for table in self.get_schema():
+            qtable = sql.Table(table.name)
+
+            fields = [getattr(qtable, column.field.name) for column in table.columns]
+            columns = [column.values for column in table.columns]
+
+            with open('sql/insert_{}.template.sql'.format(table.name), 'w') as f:
+                q = qtable.insert(columns=fields, values=[[0] * len(fields)])
+                print(str(q), file=f)
+
+            if cursor:
+                with open('sql/insert_{}.mysql.sql'.format(table.name), 'w') as f:
+                    for values in zip(*columns):
+                        q = qtable.insert(columns=fields, values=[values])
+                        print(cursor.mogrify(str(q), q.params), file=f)
+
+
 if __name__ == '__main__':
     CreateGenerator().generate()
+    InsertGenerator().generate()

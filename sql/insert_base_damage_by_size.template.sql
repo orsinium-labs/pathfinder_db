@@ -1,0 +1,1 @@
+INSERT INTO "base_damage_by_size" ("size", "bite", "claw", "gore", "hoof", "tentacle", "wing", "pincers", "tail", "slap", "slam", "sting", "talons", "other") VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
